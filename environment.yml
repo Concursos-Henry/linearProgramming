@@ -1,0 +1,17 @@
+name: simplex
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - jupyter
+  - jupyterlab
+  - notebook
+  - scikit-learn
+  - scipy
+  - pandas
+  - numpy
+  - matplotlib
+  - dash
+  - plotly
+  - tqdm
